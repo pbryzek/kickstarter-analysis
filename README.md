@@ -4,9 +4,12 @@
 Bootcamp Module 1: Kickstarting with Excel
 Performed Data Analysis on Kickstarter data to uncover trends using Excel
 
-### Dataset Used:
+### Dataset Used
 Kickstarter Global Dataset 
 [KickstarterDataSet](https://courses.bootcampspot.com/courses/140/files/34981/download?wrap=1)
+
+### Excel Spreadsheet Generated
+[Kickstarter](data-1-1-3-StarterBook.xlsx)
 
 ### Charts Generated
 ![CategoryOutcomes](charts/ParentCategoryOutcomes.png)
@@ -24,7 +27,7 @@ Kickstarter Global Dataset
 * Line Graph
 
 ### Trends Analyzed 
-* Goal and Pledged amounts for Successful and Failed Campaigns across various countries and category types.
+* Goal and Pledged amounts for Successful and Failed Campaigns across various countries and category types
 * Categories in specific countries and displayed their outcomes visually by use of histrograms
-*
+* Impact of Quarter of Campaign on amount Pledged
 
