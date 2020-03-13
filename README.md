@@ -14,6 +14,7 @@ Kickstarter Global Dataset
 ### Charts Generated
 ![CategoryOutcomes](charts/ParentCategoryOutcomes.png)
 ![OutcomesBasedOnLaunchDate](charts/outcomesBasedOnLaunchDate.png)
+![GBPlays](charts/GBPlays.png)
 
 ### Statistical Analysis Run
 * Mean 
@@ -36,5 +37,5 @@ Kickstarter Global Dataset
   * To increase the probability of a successful campaign, a US based theatre campaign would be advised to keep the Goal amount under the Median Pledged amount of $3,167.
   * All campaigns in Mobile Games category had an outcome of failed; thereby, I would recommend any Campaigns of this category to seek alternatives.
   * For Sub Category Plays in Great Britain the median pledged was $1,887 and as such successful campaigns should look to stay under this threshold.
-2. Across all countries and categories, it is advisable to begin the campaign between March-July. The months of August-February have resulted in far fewer successful campaigns and significantly more failed campaigns. The best success to failed campaign ratio appears in April while the highest number of successful campaigns occurs in May. 
-3. Outside of the US and GB across all categories, the success rate was only 35.6% whereas it was 55.4% for US and GB (when taken together as a group). Consequently it is recommended to initiate the campaign within GB or the US.
+2. Across all countries and categories, it is advisable to begin the campaign between **March-July**. The months of August-February have resulted in far fewer successful campaigns and significantly more failed campaigns. The best success to failed campaign ratio appears in **April** while the highest number of successful campaigns occurs in **May**. 
+3. Outside of the US and GB across all categories, the success rate was only 35.6% whereas it was **55.4% for US and GB** (when taken together as a group). Consequently it is recommended to initiate the campaign within US or the GB.
