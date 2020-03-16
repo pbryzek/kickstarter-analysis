@@ -33,21 +33,18 @@ Kickstarter Global Dataset
 These recommendations are based off the trends observed in the charts shown above. Each recommendation acknowledges its own limitations. Each recommendation strives to increase the probability of a successful kickstarter campaign as indicated by the analysis done.
 
 1. **Start your Theatre kickstarter campaign between April-July.** 
+*Data Source Used: Outcomes Based on Goals*
 The highest number of successful campaigns (111) was seen in the month of May, which not only had the best monthly success rate (66.86%) but also accounted for the greatest percentage (10.55%) of all successful theatre kickstarter campaigns among all months. Starting the campaign in April, May, June, July yielded 62.83%, 66.87%, 65.36%, 63.04% respectively monthly success rates for all theatre campaigns. The average success rate for a month was 59.44%. While the months of September and November also posted monthly success rates above 60%, there were fewer overall campaigns than there were in the months of April-July.
 
-*Data Source Used: Outcomes Based on Goals*
-
 2. **Avoid starting your Theatre kickstarter campaign in December.** 
+*Data Source Used: Outcomes Based on Launch Date*
 Not only the fewest successful campaigns (37) but also the fewest total theatre kickstarter campaigns were seen in the month of December. December had the lowest monthly success rate (49.33%) and also accounted for only (7.01%) of all successful theatre kickstarter campaigns among all months. The average success rate for a month was 59.44%, over 10% higher than the success rate shown by campaigns launched in December.
 
-*Data Source Used: Outcomes Based on Launch Date*
-
 3. **Goal amount should be $5,000+ for plays kickerstarter campaigns.** 
-To obtain an understanding of the relationship between successful campaigns and goal amount, it was first beneficial to segment the data into buckets or ranges of values. In this analysis we analyzed campaigns with goal amounts < $1,000, $1,000-$4,999, then $5k increments until $50,000 and finally $50,000+. The data shows that the campaigns analyzed across all countries with a sub category of plays, less than 30% of successful campaigns had goals less than $1,000, and only 50% were successful with a goal between $1,000 and $4,999. Over 97% of all plays campaigns were successful with goal amounts $5,000-$9,999, over 95% success rate from $10,000-$14,999, and 100% success rate for over $15,000 though with a sample size of 35 accounting for just 2.5% of the dataset.
+*Data Source Used: Outcomes Based on Goals*
+To obtain an understanding of the relationship between successful campaigns and goal amount, it was first beneficial to segment the data into buckets or ranges of values. In this analysis we analyzed campaigns with goal amounts < $1,000, $1,000-$4,999, then $5k increments until $50,000 and finally $50,000+. The data shows that the campaigns analyzed across all countries with a sub category of plays, campaigns with goals less than $1,000 resulted in less than 30% sucess rate. For those plays campaigns with goals between $1,000 and $4,999, the sucess rate was 50%. Over 97% of all plays campaigns were successful with goal amounts $5,000-$9,999, over 95% success rate from $10,000-$14,999, and 100% success rate for over $15,000 (though with a sample size of 35 accounting for just 2.5% of the dataset).
 
 Statistically there appears to be a distinct disadvantage to those plays campaigns with a goal amount less than $5,000.
-
-*Data Source Used: Outcomes Based on Goals*
 
 **Limitations**
 1. The dataset analyzed looked at Plays across all countries. As the exercise in the module showed, the success rate of campaigns that were started either in the US or GB had significantly greater chances than that of campaigns started in the rest of the world. 
