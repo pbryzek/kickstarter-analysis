@@ -33,7 +33,9 @@ Kickstarter Global Dataset
 These recommendations are based off the trends observed in the charts shown above. Each recommendation acknowledges its own limitations. Each recommendation strives to increase the probability of a successful kickstarter campaign as indicated by the analysis done.
 
 1. **Start your Theatre kickstarter campaign between April-July.** 
+---
 *Data Source Used: Outcomes Based on Goals*
+---
 The highest number of successful campaigns (111) was seen in the month of May, which not only had the best monthly success rate (66.86%) but also accounted for the greatest percentage (10.55%) of all successful theatre kickstarter campaigns among all months. Starting the campaign in April, May, June, July yielded 62.83%, 66.87%, 65.36%, 63.04% respectively monthly success rates for all theatre campaigns. The average success rate for a month was 59.44%. While the months of September and November also posted monthly success rates above 60%, there were fewer overall campaigns than there were in the months of April-July.
 
 2. **Avoid starting your Theatre kickstarter campaign in December.** 
