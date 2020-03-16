@@ -43,9 +43,7 @@ Not only the fewest successful campaigns (37) but also the fewest total theatre 
 *Data Source Used: Outcomes Based on Launch Date*
 
 3. **Goal amount should be $5,000+ for plays kickerstarter campaigns.** 
-To obtain an understanding of the relationship between successful campaigns and goal amount, it was first beneficial to segment the data into buckets or ranges of values. In this analysis we analyzed campaigns with goal amounts < $1,000, $1,000-$4,999, then $5k increments until $50,000 and finally $50,000+. 
-
-The data shows that the campaigns analyzed across all countries with a sub category of plays, less than 30% of successful campaigns had goals less than $1,000, and only 50% were successful with a goal between $1,000 and $4,999. Over 97% of all plays campaigns were successful with goal amounts $5,000-$9,999, over 95% success rate from $10,000-$14,999, and 100% success rate for over $15,000 though with a sample size of 35 accounting for just 2.5% of the dataset.
+To obtain an understanding of the relationship between successful campaigns and goal amount, it was first beneficial to segment the data into buckets or ranges of values. In this analysis we analyzed campaigns with goal amounts < $1,000, $1,000-$4,999, then $5k increments until $50,000 and finally $50,000+. The data shows that the campaigns analyzed across all countries with a sub category of plays, less than 30% of successful campaigns had goals less than $1,000, and only 50% were successful with a goal between $1,000 and $4,999. Over 97% of all plays campaigns were successful with goal amounts $5,000-$9,999, over 95% success rate from $10,000-$14,999, and 100% success rate for over $15,000 though with a sample size of 35 accounting for just 2.5% of the dataset.
 
 Statistically there appears to be a distinct disadvantage to those plays campaigns with a goal amount less than $5,000.
 
@@ -59,4 +57,4 @@ Statistically there appears to be a distinct disadvantage to those plays campaig
 **Suggestions**
 1. For limitation 1, additional charts on further segmenting the data to chart the individual countries relationship with plays campaigns and success rate to establish which countries this trend holds for.
 2. For limitation 2, in addition to the aggregate view, we should generate charts that are segemented year by year to see if the same trends related to Launch Date and success rate holds throughout time.
-3. For limitation 2, additional charts on further segmenting the data to chart the individual sub categories of the parent category of Theatre to observe which sub categories of theatre may be skewing the data one way or another.
+3. For limitation 3, additional charts on further segmenting the data to chart the individual sub categories of the parent category of Theatre to observe which sub categories of theatre may be skewing the data one way or another.
